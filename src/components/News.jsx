@@ -12,10 +12,11 @@ export default class News extends Component {
   }
   async componentDidMount() {
     try {
-      let url =
-        "https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=862860c0bc5444468229092957eef7e5&pagesize=20";
-      let data = await fetch(url);
-      let parsedData = await data.json();
+      //to run on local host
+      //let url ="https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=862860c0bc5444468229092957eef7e5&pagesize=20";
+      //let data = await fetch(url);
+      //let parsedData = await data.json();
+      let parsedData = require("./page1.json");
       this.setState({ articles: parsedData.articles });
     } catch (e) {
       console.log("somthing went wrong");
@@ -24,11 +25,11 @@ export default class News extends Component {
   render() {
     return (
       <>
-        <div className="row container-fluid">
+        <div className="row container-fluid mx-auto text-center">
           {this.state.articles.map((element) => {
             return (
               <div
-                className="col-sm-6 col-xs-12 col-md-4 col-lg-3"
+                className="col-sm-6 col-xs-12 col-md-4 col-lg-3 d-flex justify-content-center"
                 key={element.url}
               >
                 <NewsItem
@@ -56,14 +57,19 @@ export default class News extends Component {
         <div className=" d-flex justify-content-between">
           <button
             type="button"
-            class="btn btn-light px-2 m-4"
+            className="btn btn-light px-2 m-4"
             disabled={this.page <= 1}
+            onClick={this.prevPage}
           >
-            {" "}
             ← Prev
           </button>
-          <button type="button" class="btn btn-light px-2 m-4" disabled={true}>
-            Next →{" "}
+          <button
+            type="button"
+            className="btn btn-light px-2 m-4"
+            disabled={false}
+            onClick={this.nextPage}
+          >
+            Next →
           </button>
         </div>
       </>

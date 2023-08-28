@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 77465,
+    "articles": [
+    {
+    "source": {
+    "id": null,
+    "name": "The Guardian"
+    },
+    "author": "Hibaq Farah UK technology reporter",
+    "title": "AI tool creates South Park episodes with user in starring role",
+    "description": "Episodes can feature a character based on user’s own looks and voice – but tool will not be released to publicA US company says it has cracked the formula for making an episode of South Park using artificial intelligence – and it allows users to be the star o…",
+    "url": "https://www.theguardian.com/technology/2023/jul/20/ai-tool-creates-south-park-episodes-with-user-in-starring-role",
+    "urlToImage": "https://i.guim.co.uk/img/media/60d06818e36c7cc749203692450059b02a34ec9f/120_0_3560_2138/master/3560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=01815be0cc6fe9153a8df57ecd751096",
+    "publishedAt": "2023-07-20T17:17:29Z",
+    "content": "A US company says it has cracked the formula for making an episode of South Park using artificial intelligence and it allows users to be the star of the show.\r\nFable Simulation has created an AI tool… [+2992 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Filiph.net"
+    },
+    "author": "Memex is already here, it’s just not evenly distributed",
+    "title": "Memex is already here, it’s just not evenly distributed",
+    "description": "How to keep an external brain using ideas from 1945 and technology from 2023.",
+    "url": "https://filiph.net/text/memex-is-already-here,-it%27s-just-not-evenly-distributed.html",
+    "urlToImage": "https://filiph.net/text/imgs/memex.webp",
+    "publishedAt": "2023-08-06T08:23:47Z",
+    "content": "In 1945, Vannevar Bush proposed the idea of memex, a hypertext system. It came two decades before the internet and almost half a century before the web. Because of the time in which it was invented, … [+18602 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "https://www.facebook.com/bbcnews",
+    "title": "German official accused of spying for Russia",
+    "description": "The man, named only as Thomas H, worked for an office dealing with military equipment and IT.",
+    "url": "https://www.bbc.co.uk/news/world-europe-66458090",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14119/production/_130710228_mediaitem130710224.jpg",
+    "publishedAt": "2023-08-10T04:20:24Z",
+    "content": "A government official has been arrested in Germany, accused of passing secret information to Russia. \r\nThe man has been named only as Thomas H, in line with German privacy rules.\r\nHe worked for an of… [+1431 chars]"
+    },
+    {
+    "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "Charles R. Davis",
+    "title": "A Ukrainian arms dealer accused of corruption is now one of the country's top weapons suppliers",
+    "description": "Before the war, Ukrainian President Volodymyr Zelenskyy described arms dealer Serhiy Pashinsky as a \"criminal.\" Now he's a vital supplier of weapons.",
+    "url": "https://www.businessinsider.com/serhiy-pashinsky-ukraine-relies-on-arms-dealer-accused-of-corruption-2023-8",
+    "urlToImage": "https://i.insider.com/64626222785af800192b60a5?width=1200&format=jpeg",
+    "publishedAt": "2023-08-12T14:30:27Z",
+    "content": "Ukrainian soldiers load ammunition into a 2s9 artillery vehicle in Donetsk Oblast on April 14, 2023.Diego Herrera Carcedo/Anadolu Agency via Getty Images\r\n<ul>\n<li>Ukrainian Armored Technology has em… [+3016 chars]"
+    },
+    {
+    "source": {
+    "id": "ars-technica",
+    "name": "Ars Technica"
+    },
+    "author": "Jonathan M. Gitlin",
+    "title": "Ultra-fast niobium batteries boast 6-min charge for Lotus Elise-based EV",
+    "description": "Nyobolt's battery tech is meant for consumer applications, as well as EVs.",
+    "url": "https://arstechnica.com/cars/2023/07/ultra-fast-niobium-batteries-boast-6-min-charge-for-lotus-elise-based-ev/",
+    "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/Nyobolt-EV-at-2023-GFOS-1-760x380.jpg",
+    "publishedAt": "2023-07-27T16:38:20Z",
+    "content": "Enlarge/ The Lotus Elise is an archetypal lightweight sports car. Now, it has inspired a showcase for new battery technology, courtesy of Nyobolt.\r\n59 with \r\nPolestar provided a flight from Washingto… [+3461 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The New Yorker"
+    },
+    "author": "Carolyn Kormann",
+    "title": "Why It’s So Hard to Forecast Wildfire Smoke",
+    "description": "Carolyn Kormann on the best available science and technology today for short-term wildfire smoke forecasts, and the importance of developing it for the future.",
+    "url": "https://www.newyorker.com/science/elements/why-its-so-hard-to-forecast-wildfire-smoke",
+    "urlToImage": "https://media.newyorker.com/photos/64d128cf9e87508ed7651f5a/16:9/w_1280,c_limit/Kormann-Smoke-Forecast.jpg",
+    "publishedAt": "2023-08-08T17:10:23Z",
+    "content": "Picture the boreal forest, in northern Quebec, on the morning of June 1st. Bears, moose, and wolves roamed, circling its unusually dry lakes, bogs, rivers, and creeks. In the afternoon, after weeks o… [+14154 chars]"
+    },
+    {
+    "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "Alex Kantrowitz, Douglas Gorman",
+    "title": "ChatGPT isn't good enough to take jobs and is unlikely to cause mass layoffs: 'The hot takes have run into reality'",
+    "description": "\"AI is being widely adopted, but the imagined mass firings haven't materialized,\" writes Alex Kantrowitz.",
+    "url": "https://www.businessinsider.com/chatgpt-isnt-good-enough-to-take-jobs-unlikely-mass-layoffs-2023-8",
+    "urlToImage": "https://i.insider.com/64da8a5a1f51cc00196956cb?width=1200&format=jpeg",
+    "publishedAt": "2023-08-15T09:05:01Z",
+    "content": "Alex Kantrowitz writes that the fallout of ChatGPT has been mute. imaginima/Getty Images\r\n<ul><li>Big Technology is a weekly newsletter about tech and society by independent journalist Alex Kantrowit… [+5209 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Guardian"
+    },
+    "author": "Jon Ungoed-Thomas and Skyler King",
+    "title": "Sadiq Khan in U-turn on ‘eco’ wood-burners amid pollution fears",
+    "description": "Campaigners’ pressure sees London mayor withdraw approval for stoves billed as better for the environmentThe London mayor Sadiq Khan has withdrawn his endorsement of woodburning stoves promoted as “environmentally friendly” after a surge in sales of the appli…",
+    "url": "https://www.theguardian.com/environment/2023/jul/22/sadiq-khan-mayor-u-turn-eco-wood-burners-pollution-fears",
+    "urlToImage": "https://i.guim.co.uk/img/media/3ed9110a5afb11077533ff69c881bdce591be4ce/0_1822_3648_2189/master/3648.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=fab263551ce71ebbc6d213fde799a36c",
+    "publishedAt": "2023-07-22T13:03:41Z",
+    "content": "The London mayor Sadiq Khan has withdrawn his endorsement of woodburning stoves promoted as environmentally friendly after a surge in sales of the appliances, which contribute to harmful air pollutio… [+10712 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Guardian"
+    },
+    "author": "Samuel Gibbs",
+    "title": "Say hello to longlife tech that can challenge our throwaway culture",
+    "description": "We’ve got used to dumping old devices. But a new breed of firms is making products that they hope you will hang on toIt is a habit that has become ingrained in so many consumers that you could be forgiven for thinking there was no other way: dumping your old …",
+    "url": "https://www.theguardian.com/money/2023/jul/30/say-hello-to-longlife-tech-that-can-challenge-our-throwaway-culture",
+    "urlToImage": "https://i.guim.co.uk/img/media/97414e451706a4f606da5a8e4cfde0e82c29e670/0_300_4500_2700/master/4500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=1fbc8864ee3328a7ee60cac5b62d6903",
+    "publishedAt": "2023-07-30T08:00:02Z",
+    "content": "It is a habit that has become ingrained in so many consumers that you could be forgiven for thinking there was no other way: dumping your old and tired tech for a shinier model every year or two, she… [+11790 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Guardian"
+    },
+    "author": "Vanessa Thorpe",
+    "title": "A bot walks into a bar … Edinburgh fringe performers use AI to write jokes",
+    "description": "All aspects of artificial intelligence will get the comic treatment at this summer’s festivalA comedy show is probably not the first place to hear about a burning new issue, but standup routines have a habit of swiftly reflecting the worries of our times. Thi…",
+    "url": "https://www.theguardian.com/culture/2023/jul/30/a-bot-walks-into-a-bar-edinburgh-fringe-performers-use-ai-to-write-jokes",
+    "urlToImage": "https://i.guim.co.uk/img/media/289e555adfa53bd34ce08d57e5779d8d27d18db7/437_893_1778_1067/master/1778.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=ea8b2737c4b09eb5c7f589becf5877af",
+    "publishedAt": "2023-07-30T05:00:02Z",
+    "content": "A comedy show is probably not the first place to hear about a burning new issue, but standup routines have a habit of swiftly reflecting the worries of our times. This summers Edinburgh festival frin… [+9886 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "ReadWrite"
+    },
+    "author": "Brad Anderson",
+    "title": "Collectly Could Save Medical Providers $200 Billion",
+    "description": "In the landscape of healthcare, medical providers face an ongoing challenge with payment collection. The process can be overwhelming, especially […]\nThe post Collectly Could Save Medical Providers $200 Billion appeared first on ReadWrite.",
+    "url": "https://readwrite.com/collectly-could-save-medical-providers-200-billion/",
+    "urlToImage": "https://images.readwrite.com/wp-content/uploads/2023/07/national-cancer-institute-701-FJcjLAQ-unsplash.jpg",
+    "publishedAt": "2023-07-20T21:06:38Z",
+    "content": "In the landscape of healthcare, medical providers face an ongoing challenge with payment collection. The process can be overwhelming, especially for solo or small practices without the resources to o… [+8944 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "ReadWrite"
+    },
+    "author": "Brad Anderson",
+    "title": "How AI Can Save Your Life With a Simple Scan",
+    "description": "In spite of AI’s widespread impact, preventive medicine is where it’s really making waves. Full-body AI scans are quickly becoming […]\nThe post How AI Can Save Your Life With a Simple Scan appeared first on ReadWrite.",
+    "url": "https://readwrite.com/how-ai-can-save-your-life-with-a-simple-scan/",
+    "urlToImage": "https://images.readwrite.com/wp-content/uploads/2023/07/national-cancer-institute-f2aDTqfnqfE-unsplash-1.jpg",
+    "publishedAt": "2023-07-17T18:39:24Z",
+    "content": "In spite of AI’s widespread impact, preventive medicine is where it’s really making waves. Full-body AI scans are quickly becoming the gold standard in preventative healthcare. Experts predict that t… [+6706 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Guardian"
+    },
+    "author": "Ben Bloom",
+    "title": "Rugby World Cup warm-up matches to use shot clock and card review system",
+    "description": "<ul><li>Shot clock intended to speed up conversions and penalty kicks</li><li>Hawk-Eye technology and referee body cameras also in place</li></ul>A shot clock to prevent time-wasting and a “Bunker” review system for upgrading yellow cards to red are among inn…",
+    "url": "https://www.theguardian.com/sport/2023/jul/24/shot-clock-and-red-card-review-system-to-be-used-in-rugby-world-cup-warm-up-games",
+    "urlToImage": "https://i.guim.co.uk/img/media/e128ad0d31f819e8ac7cc3e1dfc75625c7fbd147/0_190_2799_1679/master/2799.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=acb544869a1b8f045422f91422645826",
+    "publishedAt": "2023-07-24T14:22:46Z",
+    "content": "A shot clock to prevent time-wasting and a Bunker review system for upgrading yellow cards to red are among innovations that will be in place for the upcoming Rugby World Cup warm-up matches this sum… [+6810 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Guardian"
+    },
+    "author": "Dan Milmo Global technology editor",
+    "title": "Christopher Nolan says AI experts face their ‘Oppenheimer moment’",
+    "description": "‘Very strong parallels’ between J Robert Oppenheimer’s views and those who want AI reined in, film’s director saysThe Oppenheimer director, Christopher Nolan, has highlighted the difficulties of applying nuclear weapons-style regulation to artificial intellig…",
+    "url": "https://www.theguardian.com/technology/2023/jul/21/christopher-nolan-says-ai-experts-face-their-oppenheimer-moment",
+    "urlToImage": "https://i.guim.co.uk/img/media/f9dfbb2b8ac9401f859e8cf9d3a420f12df7e0fa/13_378_3704_2222/master/3704.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=777bb63b0244845825bf24e040c2b8d8",
+    "publishedAt": "2023-07-21T12:28:20Z",
+    "content": "The Oppenheimer director, Christopher Nolan, has highlighted the difficulties of applying nuclear weapons-style regulation to artificial intelligence, as he warned that the United Nations had become … [+10295 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Guardian"
+    },
+    "author": "Kalyeena Makortoff",
+    "title": "Chinese plans to limit smartphone use for children hit tech shares",
+    "description": "Proposals would cut usage for 16- to 18-year-olds to a maximum of two hours, with under-16s limited to one hourShares in Chinese technology firms have fallen after the country’s online regulator announced plans recommending smartphone use for children be limi…",
+    "url": "https://www.theguardian.com/business/2023/aug/03/chinese-plans-to-limit-smartphone-use-for-children-hit-tech-shares",
+    "urlToImage": "https://i.guim.co.uk/img/media/44c36b505df444255bbc34a8c031c618bd872896/4190_1270_1810_1086/master/1810.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c6ba2156690f0aeef2307d471f032f80",
+    "publishedAt": "2023-08-03T09:12:26Z",
+    "content": "Shares in Chinese technology firms have fallen after the countrys online regulator announced plans recommending smartphone use for children be limited to a maximum of two hours a day.\r\nThe rules prop… [+7668 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Yahoo Entertainment"
+    },
+    "author": "Erin Feiger",
+    "title": "Amish communities are adapting a surprising new technology in their homes",
+    "description": "The shift benefits the environment as well.",
+    "url": "https://news.yahoo.com/amish-communities-adapting-surprising-technology-123000079.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/J.sefh_zdsE1Db6pqL6a2A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/the_cool_down_737/6127b888511c2728660c0c9ef655f4b9",
+    "publishedAt": "2023-07-22T18:39:47Z",
+    "content": "Amish barns and solar panels are probably not two things most people think of as going together, but times are changing. Anabaptist World recently reported that Amish communities are starting to adop… [+1977 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Digital Trends"
+    },
+    "author": "Trevor Mogg",
+    "title": "Amazon expands use of generative AI to summarize product reviews",
+    "description": "Amazon is rolling out the use of generative-AI technology to summarize customers’ product reviews on its shopping site.",
+    "url": "http://www.digitaltrends.com/news/amazon-expands-use-of-generative-ai-to-summarize-product-reviews/",
+    "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2023/08/amazon-ai-review-highlights.jpg?resize=1200%2C630&p=1",
+    "publishedAt": "2023-08-16T05:45:10Z",
+    "content": "Amazon\r\nAmazon is rolling out the use of generative-AI technology to summarize customers’ product reviews on its shopping site.\r\nIt follows several months of testing the feature, which is designed to… [+2339 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "VentureBeat"
+    },
+    "author": "Jen Larsen",
+    "title": "How iGenius’s GPT for numbers is evolving language models to give enterprise data a voice",
+    "description": "At VB Transform 2023, iGenius's founder & CEO spoke about enabling generative AI to respond to data-related queries, not just content.",
+    "url": "https://venturebeat.com/ai/how-igeniuss-gpt-for-numbers-is-evolving-language-models-to-give-enterprise-data-a-voice/",
+    "urlToImage": "https://venturebeat.com/wp-content/uploads/2023/07/CARR5714.jpg?w=1200&strip=all",
+    "publishedAt": "2023-07-18T14:40:00Z",
+    "content": "Uljan Sharka, founder and CEO of iGenius, has spent the last seven years working on language models and generative AI. To this point, its been all about the technology, from the size of the model to … [+6932 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Lifehacker.com"
+    },
+    "author": "Jeff Somers",
+    "title": "How to Cool Off a Windowless Room",
+    "description": "If you live in a home with a windowless room inside it, you know how hot it can get. A room without windows is typically a room without ventilation, and unless you have a robust air conditioning system that blasts cold air into that small slice of Mordor you …",
+    "url": "https://lifehacker.com/how-to-cool-off-a-windowless-room-1850655486",
+    "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/c50d174a616d2726a5fe41c82aa3f451.jpg",
+    "publishedAt": "2023-07-19T19:00:00Z",
+    "content": "If you live in a home with a windowless room inside it, you know how hot it can get. A room without windows is typically a room without ventilation, and unless you have a robust air conditioning syst… [+4571 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Www.nbc.ca"
+    },
+    "author": null,
+    "title": "National Bank Acquires Silicon Valley Bank’s Canadian Portfolio",
+    "description": "National Bank reaffirms leadership in the Technology Banking space through acquisition of Silicon Valley Bank’s Canadian portfolio",
+    "url": "https://www.nbc.ca/about-us/news-media/press-release/2023/20230801-NBC-acquisition-silicon-valley-bank-canadian-portfolio.html",
+    "urlToImage": null,
+    "publishedAt": "2023-08-01T18:38:58Z",
+    "content": "National Bank (the \"Bank\") announced today that it has\r\n entered into an agreement to acquire the commercial loan portfolio of\r\n Silicon Valley Banks Canadian branch.\r\nUnder the terms of the agreemen… [+1804 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "VentureBeat"
+    },
+    "author": "Shubham Sharma",
+    "title": "Confluent boosts access to real-time data with new partner program",
+    "description": "Confluent launched a partner program to help enterprise vendors bring real-time data streams from different sources to power applications.",
+    "url": "https://venturebeat.com/data-infrastructure/confluent-boosts-access-to-real-time-data-with-new-partner-program/",
+    "urlToImage": "https://venturebeat.com/wp-content/uploads/2022/10/Jay-Kreps-1-e1664902340233.jpg?w=1200&strip=all",
+    "publishedAt": "2023-07-19T19:42:57Z",
+    "content": "Head over to our on-demand library to view sessions from VB Transform 2023. Register Here\r\nData streaming major Confluent has launched a Connect with Confluent partner program to help technology prov… [+1430 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "ReadWrite"
+    },
+    "author": "Brad Anderson",
+    "title": "Google Assistant Is Getting a Major Upgrade",
+    "description": "In a monumental shift towards the future, Google has made an astonishing realization that has spurred the company to realign […]\nThe post Google Assistant Is Getting a Major Upgrade appeared first on ReadWrite.",
+    "url": "https://readwrite.com/google-assistant-is-getting-a-major-upgrade/",
+    "urlToImage": "https://images.readwrite.com/wp-content/uploads/2023/08/bence-boros-anapPhJFRhM-unsplash-1.jpg",
+    "publishedAt": "2023-08-01T14:57:14Z",
+    "content": "In a monumental shift towards the future, Google has made an astonishing realization that has spurred the company to realign its approach to artificial intelligence (AI). Recent reports indicate that… [+8593 chars]"
+    },
+    {
+    "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "Lakshmi Varanasi",
+    "title": "From the 'godfathers of AI' to newer people in the field: Here are 16 people you should know — and what they say about the possibilities and dangers of the technology.",
+    "description": "AI is storming its way to front page of society. But how did we get here? Insider takes a look at leaders in the field to figure out what's next.",
+    "url": "https://www.businessinsider.com/ai-godfather-top-names-possibilities-dangers-openai-chatgpt-list-2023-8",
+    "urlToImage": "https://i.insider.com/64cd66eb20f1cf0019cb2531?width=1200&format=jpeg",
+    "publishedAt": "2023-08-07T09:02:06Z",
+    "content": "Three of the \"godfathers of AI\" helped spark the revolution that's making its way through the tech industry — and all of society. They are, from left, Yann LeCun, Geoffrey Hinton, and Yoshua Bengio.M… [+19250 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "heise online"
+    },
+    "author": "Oliver Bünte",
+    "title": "StreamEXO: Exoskelett reduziert körperliche Überlastung um 50 Prozent",
+    "description": "Das Exoskelett des Italian Institute of Technology kann körperliche Überlastungen und Muskelermüdungserscheinungen verhindern.",
+    "url": "https://www.heise.de/news/StreamEXO-Exoskelett-reduziert-koerperliche-Ueberlastung-um-50-Prozent-9225037.html",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/7/5/8/3/0/StreamEXO-aaadf6dae860cf44.jpg",
+    "publishedAt": "2023-07-24T14:35:00Z",
+    "content": "Ein Ingenieursteam des Italian Institute of Technology (IIT) hat im Rahmen des europäischen Projektes Stream ein Exoskelett mit der Bezeichnung StreamEXO entwickelt, das zu einer deutlichen Entlastun… [+2029 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Boing Boing"
+    },
+    "author": "Ruben Bolling",
+    "title": "Superconductor claim debunked — more likely \"a type of magnet\"",
+    "description": "The science world and the online world blew up a few weeks ago with the claim of South Korean researchers that they had created a material, called LK-99, that is an ambient temperature/pressure superconductor. While there was much skepticism about the announc…",
+    "url": "https://boingboing.net/2023/08/10/superconductor-claim-debunked-more-likely-a-type-of-magnet.html",
+    "urlToImage": "https://i0.wp.com/boingboing.net/wp-content/uploads/2023/08/science-lab-shutterstock_2338896439.jpg?fit=1200%2C800&ssl=1",
+    "publishedAt": "2023-08-10T14:46:32Z",
+    "content": "The science world and the online world blew up a few weeks ago with the claim of South Korean researchers that they had created a material, called LK-99, that is an ambient temperature/pressure super… [+2629 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Science Daily"
+    },
+    "author": null,
+    "title": "Engineers' storage technology keeps nanosurfaces clean",
+    "description": "Engineers have created containers that can keep volatile organic compounds from accumulating on the surfaces of stored nanomaterials. Their portable and inexpensive technology improves on a 50-year-old idea to address a ubiquitous problem in nanomanufacturing…",
+    "url": "https://www.sciencedaily.com/releases/2023/07/230717175958.htm",
+    "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+    "publishedAt": "2023-07-17T21:59:58Z",
+    "content": "Rice University engineers have created containers that can keep volatile organic compounds (VOCs) from accumulating on the surfaces of stored nanomaterials.The portable and inexpensive storage techno… [+2969 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Slashdot.org"
+    },
+    "author": "EditorDavid",
+    "title": "How the Movie 'WarGames' Anticipated Our Current AI Fears 40 Years Ago",
+    "description": "Slashdot reader quonset shared this report from CNN:\n\nForty years ago this summer, a new movie floated the prospect of the world being destroyed by artificial intelligence run amok — anticipating current anxieties about where the technology could potential le…",
+    "url": "https://entertainment.slashdot.org/story/23/07/16/0054240/how-the-movie-wargames-anticipated-our-current-ai-fears-40-years-ago",
+    "urlToImage": "https://a.fsdn.com/sd/topics/movies_64.png",
+    "publishedAt": "2023-07-16T17:34:00Z",
+    "content": "Forty years ago this summer, a new movie floated the prospect of the world being destroyed by artificial intelligence run amok — anticipating current anxieties about where the technology could potent… [+1275 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Guardian"
+    },
+    "author": "Guardian Staff",
+    "title": "Views from both sides of the digital divide | Letters",
+    "description": "Josephine Culhane on technology’s pitfalls; plus letters from Wally Harbert and David WardI was nodding my head vigorously in agreement when I read your editorial (The Guardian view on the digital divide: a growing problem that must be taken seriously, 6 Augu…",
+    "url": "https://www.theguardian.com/technology/2023/aug/09/views-from-both-sides-of-the-digital-divide",
+    "urlToImage": "https://i.guim.co.uk/img/media/e4740a0061f0a3b14987baa538a0601a4b279884/0_200_5929_3558/master/5929.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4561de2bdd68a9f4f40b54e2025f9517",
+    "publishedAt": "2023-08-09T17:28:49Z",
+    "content": "I was nodding my headvigorously in agreement when I read your editorial (The Guardian view on the digital divide: a growing problem that must be taken seriously, 6 August). An hour later I was having… [+1805 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Slashdot.org"
+    },
+    "author": "EditorDavid",
+    "title": "UK Woman Fitted With AI-Powered Bionic Arm",
+    "description": "Long-time Slashdot reader destinyland writes: This is straight out of science fiction. The technology is absolutely incredible...\" says a woman who received an AI-powered bionic arm. \"I'm just absolutely in awe of the technology and excited about the future p…",
+    "url": "https://science.slashdot.org/story/23/08/05/2126227/uk-woman-fitted-with-ai-powered-bionic-arm",
+    "urlToImage": "https://a.fsdn.com/sd/topics/ai_64.png",
+    "publishedAt": "2023-08-06T16:34:00Z",
+    "content": "This is straight out of science fiction. The technology is absolutely incredible...\" says a woman who received an AI-powered bionic arm. \"I'm just absolutely in awe of the technology and excited abou… [+1040 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Slashdot.org"
+    },
+    "author": "BeauHD",
+    "title": "Brazil Central Bank Names Its Digital Currency 'DREX,' Scheduled For 2024 Launch",
+    "description": "Brazil's central bank has named its upcoming digital currency \"DREX,\" which it aims to use to boost financial services. DREX is scheduled to launch next year. Reuters reports: The DREX will use distributed ledger technology (DLT) to settle wholesale interbank…",
+    "url": "https://slashdot.org/story/23/08/07/2040252/brazil-central-bank-names-its-digital-currency-drex-scheduled-for-2024-launch",
+    "urlToImage": "https://a.fsdn.com/sd/topics/bitcoin_64.png",
+    "publishedAt": "2023-08-07T22:00:00Z",
+    "content": "The DREX will use distributed ledger technology (DLT) to settle wholesale interbank transactions, while retail access will be based on tokenized bank deposits. Officials from the central bank previou… [+1062 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Slashdot.org"
+    },
+    "author": "EditorDavid",
+    "title": "Salesforce Executive Shares 'Four Ways Coders Can Fight the Climate Crisis'",
+    "description": "Saleforce's chief impact officer, writing in Forbes:\n\n Code and computer programming — the backbone of modern business — has a long way to go before it can be called \"green...\" According to a recent report from the science journal Patterns, the information an…",
+    "url": "https://developers.slashdot.org/story/23/07/30/219249/salesforce-executive-shares-four-ways-coders-can-fight-the-climate-crisis",
+    "urlToImage": "https://a.fsdn.com/sd/topics/programming_64.png",
+    "publishedAt": "2023-07-31T11:34:00Z",
+    "content": "Saleforce's chief impact officer, writing in Forbes:\r\nCode and computer programming — the backbone of modern business — has a long way to go before it can be called \"green...\" According to a recent r… [+2119 chars]"
+    },
+    {
+    "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "Kylie Kirschner",
+    "title": "NYC is now using AI at some subway stations to track when and how fare evaders are getting through",
+    "description": "The M.T.A. said that the AI is only being used to generate reports and quantify fare evasion, not to identify fare evaders or assist law enforcement.",
+    "url": "https://www.businessinsider.com/nyc-mta-ai-at-subway-stations-track-fare-evasion-2023-7",
+    "urlToImage": "https://i.insider.com/64c000fbbea3440019614a38?width=1200&format=jpeg",
+    "publishedAt": "2023-07-25T17:12:08Z",
+    "content": "The MTA is using AI to better understand and quantify fare evasion on the NYC subway system.Mack DeGeurin\r\n<ul>\n<li>NYC's MTA has started using AI software to track fare evasion in the subway system.… [+4795 chars]"
+    },
+    {
+    "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "Sarah Sloat",
+    "title": "The Phoenix Suns made it to the NBA finals in 2021 for the first time in 28 years. They had 5G to thank.",
+    "description": "The Phoenix Suns started practicing in their new state-of-the-art, 5G-powered training facility in late 2020.",
+    "url": "https://www.businessinsider.com/phoenix-suns-nba-finals-5g-training-facility-2023-7",
+    "urlToImage": "https://i.insider.com/64a2bb619fab2b00184aea9c?width=1200&format=jpeg",
+    "publishedAt": "2023-07-17T15:25:11Z",
+    "content": ".insider-raw-embed + p { display: none; }\r\n\n // 5G Playbook\n const seriesTitle = \"5G Playbook\";\n // put sponsor text here\n const text = \"Presented by\";\n // 6495cb1365b9ce0018a496f9\n const sponsorLogo… [+5750 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "VentureBeat"
+    },
+    "author": "Victor Dey",
+    "title": "Cosmic Wire raises $30M to expand cross-chain Web3 platform",
+    "description": "Cosmic Wire will use the funding to speed development of a decentralized (cross-chain), transparent and secure Web3 and blockchain ecosystem.",
+    "url": "https://venturebeat.com/security/cosmic-wire-raises-30m-to-expand-cross-chain-web3-platform/",
+    "urlToImage": "https://venturebeat.com/wp-content/uploads/2023/07/Cosmic-Wire-x-Solana-GGDay-2.jpg?w=1200&strip=all",
+    "publishedAt": "2023-07-21T17:08:47Z",
+    "content": "Head over to our on-demand library to view sessions from VB Transform 2023. Register Here\r\nCosmic Wire, a Web3 and blockchain solutions technology company, announced that it has successfully complete… [+1188 chars]"
+    },
+    {
+    "source": {
+    "id": "wired",
+    "name": "Wired"
+    },
+    "author": "Jacqueline LeKachman",
+    "title": "How to Find a Home or Apartment in a City You Don't Live In",
+    "description": "Finding the perfect place to live in another state—or country—is challenging, but with a few tools and some smart communication, you can make it easier.",
+    "url": "https://www.wired.com/story/how-to-find-home-apartment-new-city-state-country/",
+    "urlToImage": "https://media.wired.com/photos/64d6a15ec3f2cf2daf39fcfe/191:100/w_1280,c_limit/How-to-Find-a-Home-or-Apartment-in-a-City-You-Don't-Live-In-Gear-GettyImages-1390003407.jpg",
+    "publishedAt": "2023-08-13T12:00:00Z",
+    "content": "I began searching for an apartment in June, in much the same way I enter stores on Black Friday: steeling myself to join hordes of people all hyper-focused on their limited opportunity to snatch the … [+8988 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "VentureBeat"
+    },
+    "author": "Shubham Sharma",
+    "title": "Beyond Work raises $2.5M to make work more ‘human’ with LLMs",
+    "description": "London-based Beyond Work, a startup looking to make work more human with LLMs, today announced $2.5 million in pre-seed funding.",
+    "url": "https://venturebeat.com/ai/beyond-work-raises-2-5m-to-make-work-more-human-with-llms/",
+    "urlToImage": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-customer_succes_ai.jpg?w=1200&strip=all",
+    "publishedAt": "2023-07-27T18:22:31Z",
+    "content": "Head over to our on-demand library to view sessions from VB Transform 2023. Register Here\r\nLondon-based Beyond Work, a startup looking to make working with enterprise tools more human and seamless wi… [+1115 chars]"
+    },
+    {
+    "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "Beatrice Nolan",
+    "title": "Some actors and celebrities say the popularity of AI deepfakes could benefit their careers",
+    "description": "Jamie Yeo is among the actors embracing AI deepfakes and has let a tech firm use a digitally manipulated likeness of her, BBC News reported.",
+    "url": "https://www.businessinsider.com/ai-deepfakes-actors-strike-writers-careers-2023-3",
+    "urlToImage": "https://i.insider.com/64ba64dc03c40c001a9781ce?width=1200&format=jpeg",
+    "publishedAt": "2023-07-21T10:54:22Z",
+    "content": "Key SAG-AFTRA figures Duncan Crabtree-Ireland and Fran Drescher walk a picket line.VALERIE MACON/AFP via Getty Images\r\n<ul>\n<li>Jamie Yeo, an actor and model, is one of several celebrities embracing … [+2231 chars]"
+    },
+    {
+    "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "Matthew Fox",
+    "title": "Buy tech stocks now as solid 2nd-quarter earnings will power a 15% rally into year-end, Wedbush says",
+    "description": "\"Rome was not built in a day, and neither will the AI ecosystem but this build out is unlike anything we have seen since the Internet in 1995.\"",
+    "url": "https://markets.businessinsider.com/news/stocks/stock-market-tech-sector-outlook-buy-now-fed-rally-earnings-2023-8",
+    "urlToImage": "https://i.insider.com/63e4feb427e5db0018eee243?width=1200&format=jpeg",
+    "publishedAt": "2023-08-11T14:58:28Z",
+    "content": "TIMOTHY A. CLARY/Contributor via Getty Images\r\n<ul><li>Investors should buy technology stocks ahead of a year-end rally, according to Wedbush's Dan Ives.</li><li>Ives said Friday that the combination… [+2565 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Scientific American"
+    },
+    "author": "Simon Makin",
+    "title": "Electric Bandages Heal Wounds That Won't Close, Animal Study Shows",
+    "description": "New technology combines electricity and drugs to stimulate healing of tenacious wounds",
+    "url": "https://www.scientificamerican.com/article/electric-bandages-heal-wounds-that-wont-close-animal-study-shows/",
+    "urlToImage": "https://static.scientificamerican.com/sciam/cache/file/2A4B96B7-D2CC-4EB8-A3F799254F12E5A0.jpg",
+    "publishedAt": "2023-07-31T13:00:00Z",
+    "content": "Some wounds won't heal by themselves. These lesions, which include certain diabetic ulcers, burns and surgical injuries, cause long-term suffering and can linger indefinitely if not successfully trea… [+2854 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Chance Miller",
+    "title": "Apple planning to significantly reduce iPad bezel sizes with LIPO technology",
+    "description": "It’s been widely reported that the iPhone 15 Pro and iPhone 15 Pro Max will feature signficantly smaller bezels than their predecessors. In fact, multiple different CAD drawings obtained by 9to5Mac have allowed us to visualize these changes. \n\n\n\nNow, Bloomber…",
+    "url": "https://9to5mac.com/2023/07/30/resdeign-ipad-smaller-bezels-rumor/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/03/oled-ipad-pro.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-07-30T13:06:19Z",
+    "content": "It’s been widely reported that the iPhone 15 Pro and iPhone 15 Pro Max will feature signficantly smaller bezels than their predecessors. In fact, multiple different CAD drawings obtained by 9to5Mac h… [+1721 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Cool Hunting"
+    },
+    "author": "Evan Orensten",
+    "title": "What If…Green",
+    "description": "What if the first Swatch was rectangular instead of round? This new design reimagines what it could have looked like. New materials and manufacturing technology—including bioceramic for the case and biosourced glass …",
+    "url": "http://coolhunting.com/buy/what-ifgreen/",
+    "urlToImage": "https://150102931.v2.pressablecdn.com/wp-content/uploads/2023/08/SO34G700_sa280_er003.png",
+    "publishedAt": "2023-08-02T02:02:01Z",
+    "content": "Athletic Greens75 vitamins, minerals, prebiotics and probiotics, phytonutrients, mushrooms, plant extracts, adaptogenic herbs and antioxidants go into Athletic Greens’ AG1, packing a lot of punch in … [+676 chars]"
+    },
+    {
+    "source": {
+    "id": "engadget",
+    "name": "Engadget"
+    },
+    "author": "Will Shanklin",
+    "title": "Astrophysicist who claimed to find alien tech may have done the science wrong",
+    "description": "Last month, theoretical physicist Avi Loeb made headlines with the sensational claim that tiny spherules recovered from the bottom of the ocean were probably of alien origin. “It’s most likely a technological gadget with artificial intelligence,” he said to T…",
+    "url": "https://www.engadget.com/astrophysicist-who-claimed-to-find-alien-tech-may-have-done-the-science-wrong-214008434.html",
+    "urlToImage": "https://s.yimg.com/uu/api/res/1.2/xf7eOrwfMqA__dMJ2oWMzQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-07/eac86fb0-2a62-11ee-bfda-73ddf48d59cc.cf.jpg",
+    "publishedAt": "2023-07-24T21:40:08Z",
+    "content": "Last month, theoretical physicist Avi Loeb made headlines with the sensational claim that tiny spherules recovered from the bottom of the ocean were probably of alien origin. Its most likely a techno… [+6074 chars]"
+    },
+    {
+    "source": {
+    "id": "engadget",
+    "name": "Engadget"
+    },
+    "author": "Daniel Cooper",
+    "title": "The Morning After: Which Samsung foldable should you buy?",
+    "description": "Samsung’s newest foldables, the Z Flip 5\r\n and Z Fold 5\r\n, have been put through their paces by Engadget’s team of skilled reviewers. If you’re wondering which of these two you should lay your cash down for, then we’ve got all the information you need.Cherlyn…",
+    "url": "https://www.engadget.com/the-morning-after-which-samsung-foldable-should-you-buy-111537694.html",
+    "urlToImage": "https://s.yimg.com/uu/api/res/1.2/Cf4lHreAUy_8Pt8uP4UQoA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-08/2ca2d430-3764-11ee-bfe9-adfd941038a6.cf.jpg",
+    "publishedAt": "2023-08-10T11:15:37Z",
+    "content": "Samsungs newest foldables, the Z Flip 5\r\n and Z Fold 5\r\n, have been put through their paces by Engadgets team of skilled reviewers. If youre wondering which of these two you should lay your cash down… [+4638 chars]"
+    },
+    {
+    "source": {
+    "id": "engadget",
+    "name": "Engadget"
+    },
+    "author": "Mat Smith",
+    "title": "The Morning After: What to expect at Samsung’s Unpacked 2023 event next week",
+    "description": "As competition finally starts to figure out foldables, Samsung’s ready to prove it can still deliver them best. Its next Unpacked event is teasing a new generation of foldable phones, flanked by smartwatches and tablets. Here's what we're expecting.While it h…",
+    "url": "https://www.engadget.com/the-morning-after-what-to-expect-at-samsungs-unpacked-2023-event-next-week-111516314.html",
+    "urlToImage": "https://s.yimg.com/uu/api/res/1.2/k.0BJhYUrjvJY8cCb9gB.w--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-07/0c0c2c50-2669-11ee-a6de-632536efbf74.cf.jpg",
+    "publishedAt": "2023-07-21T11:15:16Z",
+    "content": "As competition finally starts to figure out foldables, Samsungs ready to prove it can still deliver them best. Its next Unpacked event is teasing a new generation of foldable phones, flanked by smart… [+4247 chars]"
+    },
+    {
+    "source": {
+    "id": "engadget",
+    "name": "Engadget"
+    },
+    "author": "Katie Malone",
+    "title": "America's original hacking supergroup creates a free framework to improve app security",
+    "description": "Cult of the Dead Cow (cDc), a hacking group known for its activist endeavors, built an open source tool for developers to build secure apps. Veilid, launched at DEF CON on Friday, has options like letting users opt out of data collection and online tracking a…",
+    "url": "https://www.engadget.com/americas-original-hacking-supergroup-creates-a-free-framework-to-improve-app-security-190043865.html",
+    "urlToImage": "https://s.yimg.com/uu/api/res/1.2/scDmU4.xJ8Ysk7TXH3iDfw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-08/66b6ded0-386f-11ee-bcff-6e9dd310b947.cf.jpg",
+    "publishedAt": "2023-08-11T19:00:43Z",
+    "content": "Cult of the Dead Cow (cDc), a hacking group known for its activist endeavors, built an open source tool for developers to build secure apps. Veilid, launched at DEF CON on Friday, has options like le… [+3636 chars]"
+    },
+    {
+    "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "Paul Iddon",
+    "title": "How Saudi Arabia and UAE learned to stop worrying and love Turkey's Bayraktar drones",
+    "description": "Multibillion-dollar purchases of Turkish-made drones by the leading Arab Gulf states might not have seemed possible just a few years ago.",
+    "url": "https://www.businessinsider.com/saudi-arabia-uae-defense-arms-sales-turkey-bayraktar-drones-2023-8",
+    "urlToImage": "https://i.insider.com/64cc48560b651c00193a6799?width=1200&format=jpeg",
+    "publishedAt": "2023-08-06T21:43:01Z",
+    "content": "Bayraktar's Akinci drone on display at Istanbul's Ataturk Airport on April 29.Oguz Yeter/Anadolu Agency via Getty Images\r\n<ul>\n<li>Saudi Arabia and the UAE have signed multibillion-dollar deals for T… [+7526 chars]"
+    },
+    {
+    "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "Tien Tzuo",
+    "title": "Want to work in tech? Don't work in tech.",
+    "description": "Big Tech has become the soul-sucking corporate machine while corporations are building the cool products, tech CEO Tien Tzuo of Zuora says.",
+    "url": "https://www.businessinsider.com/why-engineers-should-work-fortune-500-companies-not-big-tech-2023-8",
+    "urlToImage": "https://i.insider.com/64d120cbf5d4870019e33d22?width=1200&format=jpeg",
+    "publishedAt": "2023-08-08T15:23:11Z",
+    "content": "Zuora cofounder and CEO Tien Tzuo.Zuora\r\n<ul><li> I advise young engineers today to work for Fortune 500 companies, not Big Tech.</li><li>Corporations are building real, cutting-edge, cool products, … [+7475 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "heise online"
+    },
+    "author": "Jennifer Lepies",
+    "title": "Weekly: Elektroautos, Emissionszertifikate und der Film \"Paradise\"",
+    "description": "Deutschlands Erwerb von Emissionszertifikaten und der Rohstoffverbrauch von Elektroautos sind Themen der neuen Podcast-Folge von MIT Technology Review.",
+    "url": "https://www.heise.de/hintergrund/Weekly-Elektroautos-Emissionszertifikate-und-der-Film-Paradise-9237979.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/8/2/8/5/2/TR-Podcast-Weekly_artikel_1200x693_02-2023-f86a8c545257ac51.png",
+    "publishedAt": "2023-08-09T05:30:00Z",
+    "content": "In dieser Woche geht es in der neuen Folge \"Weekly\" um eine Studie des europäischen Thinktanks \"Transport &amp; Environment\" (T&amp;E). Darin wurde der Verbrauch von Rohstoffen wie Lithium, Nickel, K… [+1958 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Slashdot.org"
+    },
+    "author": "msmash",
+    "title": "Pentagon Launches AI Competition To Solicit Help Securing Computer Systems",
+    "description": "DARPA, the Pentagon agency that funds moonshot technology innovations, is hosting a two-year competition for artificial intelligence experts to create new ways to bolster the world's cybersecurity. From a report: The competition launches Wednesday at the cybe…",
+    "url": "https://yro.slashdot.org/story/23/08/09/185246/pentagon-launches-ai-competition-to-solicit-help-securing-computer-systems",
+    "urlToImage": "https://a.fsdn.com/sd/topics/ai_64.png",
+    "publishedAt": "2023-08-09T20:01:00Z",
+    "content": "The competition launches Wednesday at the cybersecurity conference Black Hat in Las Vegas. It asks participants to create tools that can be used by anyone to help identify and fix holes in software t… [+913 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "ReadWrite"
+    },
+    "author": "John Boitnott",
+    "title": "The World’s Largest Asset Manager Is Coming for India’s Money",
+    "description": "Jio BlackRock is a collaboration between Jio Financial Services, a subsidiary of the Indian conglomerate Reliance, and BlackRock, one of […]\nThe post The World’s Largest Asset Manager Is Coming for India’s Money appeared first on ReadWrite.",
+    "url": "https://readwrite.com/the-worlds-largest-asset-manager-is-coming-for-indias-money/",
+    "urlToImage": "https://images.readwrite.com/wp-content/uploads/2023/07/s-o-c-i-a-l-c-u-t-1RT4txDDAbM-unsplash.jpg",
+    "publishedAt": "2023-07-26T19:42:27Z",
+    "content": "Jio BlackRock is a collaboration between Jio Financial Services, a subsidiary of the Indian conglomerate Reliance, and BlackRock, one of the largest and most respected asset management companies in t… [+8188 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Android Central"
+    },
+    "author": "tips@androidcentral.com (Nickolas Diaz)",
+    "title": "Beats Studio Pro arrives with dynamic Spatial Audio and fine-tuned audio profiles",
+    "description": "Beats has launched its Studio Pro headphones with a large battery life, Spatial Audio, and various audio profiles.",
+    "url": "https://www.androidcentral.com/accessories/headphones/beats-studio-pro-launch",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/YLkkCLpybU22PwLvRCraXR-1200-80.jpg",
+    "publishedAt": "2023-07-19T22:26:31Z",
+    "content": "<ul><li>Beats has launched its new Studio Pro headphones with a customizable Spatial Audio feature and an integrated digital processor.</li><li>The device offers ANC and a Transparency mode to fit yo… [+3582 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Slashdot.org"
+    },
+    "author": "msmash",
+    "title": "Top Tech Companies Form Group Seeking To Control AI",
+    "description": "Some of the world's most advanced artificial intelligence companies have formed a group to research increasingly powerful AI and establish best practices for controlling it, as public anxiety and regulatory scrutiny over the impact of the technology increases…",
+    "url": "https://tech.slashdot.org/story/23/07/26/1631228/top-tech-companies-form-group-seeking-to-control-ai",
+    "urlToImage": "https://a.fsdn.com/sd/topics/ai_64.png",
+    "publishedAt": "2023-07-26T16:32:00Z",
+    "content": "\"Please don't regulate us, in contrast to 99% of our actions to date, we're going to do good things for consumers instead of the bottom line this time, pinky swear.\"\r\nAnd/or:\r\n\"Look at our 'responsib… [+294 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "ReadWrite"
+    },
+    "author": "Margaret Martin",
+    "title": "Implementing Effective Employee Recognition Programs in the Digital Age",
+    "description": "For small and midsize businesses, leveraging the latest technological innovations can lead to improved employee experience, increased workforce productivity, and […]\nThe post Implementing Effective Employee Recognition Programs in the Digital Age appeared fir…",
+    "url": "https://readwrite.com/implementing-effective-employee-recognition-programs-in-the-digital-age/",
+    "urlToImage": "https://readwrite.com/wp-content/uploads/2023/06/Employee-Recognition-Programs.jpg",
+    "publishedAt": "2023-08-05T14:00:08Z",
+    "content": "For small and midsize businesses, leveraging the latest technological innovations can lead to improved employee experience, increased workforce productivity, and an overall boost in organizational pe… [+8492 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "ReadWrite"
+    },
+    "author": "Deanna Ritchie",
+    "title": "AI Is Catching Fare Evaders on the NYC Subway",
+    "description": "The New York City (NYC) subway system has long been plagued by fare evasion, resulting in significant revenue losses for […]\nThe post AI Is Catching Fare Evaders on the NYC Subway appeared first on ReadWrite.",
+    "url": "https://readwrite.com/ai-is-catching-fare-evaders-on-the-nyc-subway/",
+    "urlToImage": "https://images.readwrite.com/wp-content/uploads/2023/07/robert-tudor-8x6Ffud7Bk-unsplash-scaled.jpg",
+    "publishedAt": "2023-07-21T15:40:40Z",
+    "content": "The New York City (NYC) subway system has long been plagued by fare evasion, resulting in significant revenue losses for the Metropolitan Transit Authority (MTA). In an effort to combat this issue, t… [+8507 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "ReadWrite"
+    },
+    "author": "Brad Anderson",
+    "title": "Sergey Brin’s return to Google could change the future of AI",
+    "description": "Few names are as synonymous with innovation and success as Sergey Brin. As a co-founder of Google, Brin has played […]\nThe post Sergey Brin’s return to Google could change the future of AI appeared first on ReadWrite.",
+    "url": "https://readwrite.com/sergey-brins-return-to-google-could-change-the-future-of-ai/",
+    "urlToImage": "https://images.readwrite.com/wp-content/uploads/2023/07/christian-wiediger-zhZydTyNMPg-unsplash.jpg",
+    "publishedAt": "2023-07-28T20:21:49Z",
+    "content": "Few names are as synonymous with innovation and success as Sergey Brin. As a co-founder of Google, Brin has played a pivotal role in shaping the digital revolution that has transformed the way we liv… [+4244 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "ReadWrite"
+    },
+    "author": "John Boitnott",
+    "title": "Drones Deliver Mail Faster, Cheaper, and More Efficiently",
+    "description": "Orkney, a group of islands off the northeastern coast of Scotland, has become the first place in the UK to […]\nThe post Drones Deliver Mail Faster, Cheaper, and More Efficiently appeared first on ReadWrite.",
+    "url": "https://readwrite.com/drones-deliver-mail-faster-cheaper-and-more-efficiently/",
+    "urlToImage": "https://images.readwrite.com/wp-content/uploads/2023/08/goh-rhy-yan-p_5BnqHfz3Y-unsplash.jpg",
+    "publishedAt": "2023-08-01T19:29:23Z",
+    "content": "Orkney, a group of islands off the northeastern coast of Scotland, has become the first place in the UK to offer drone mail delivery. This groundbreaking initiative, called the Orkney I-Port operatio… [+6624 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Digital Trends"
+    },
+    "author": "Caleb Denison",
+    "title": "LG’s new M-Series Wireless OLED TVs start at $5,000",
+    "description": "LG has announced the suggested pricing for its new M3 OLED TVs with wireless technology, with orders expected to open late August 2023",
+    "url": "http://www.digitaltrends.com/home-theater/lg-m-series-wireless-m3-oled-price-availability/",
+    "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2023/01/lg-97-inch-oled-M3-2.jpeg?resize=1200%2C630&p=1",
+    "publishedAt": "2023-08-08T00:33:24Z",
+    "content": "Digital Trends has acquired suggested pricing information for LG’s new M-Series wireless OLED TVs as sold in the U.S. Three sizes are available for the so-called M3 OLED model, ranging from 77 to 97 … [+2824 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Podman.io"
+    },
+    "author": null,
+    "title": "Podman v4.6 Introduces Podmansh: A Revolutionary Login Shell",
+    "description": "Introduction In the ever-evolving landscape of container technology, Podman’s latest version, v4.6.0, includes a feature that promises to be a game-changer for system administrators: Podmansh…",
+    "url": "https://blog.podman.io/2023/08/podman-v4-6-introduces-podmansh-a-revolutionary-login-shell/",
+    "urlToImage": "https://s0.wp.com/i/blank.jpg",
+    "publishedAt": "2023-08-12T22:33:06Z",
+    "content": "In the ever-evolving landscape of container technology, Podman’s latest version, v4.6.0, includes a feature that promises to be a game-changer for system administrators: Podmansh. A login shell that … [+10280 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Middle East Eye"
+    },
+    "author": "https://www.facebook.com/middleeasteye/",
+    "title": "US lawmaker says high-tech investment 'leaving Israel' amid judicial overhaul",
+    "description": "Ro Khanna says he told Israeli president that venture capital firms in California are worried about investing in Israel's technology sector",
+    "url": "https://www.middleeasteye.net/news/us-lawmaker-ro-khanna-investment-leaving-israel-judicial-overhaul",
+    "urlToImage": "http://www.middleeasteye.net/sites/default/files/images-story/ro-khanna-vox-conference-2022-afp.jpg",
+    "publishedAt": "2023-08-01T19:11:45Z",
+    "content": "US Congressman Ro Khanna has said he warned Israeli President Isaac Herzog that venture capital firms in California are concerned about investing in Israel's technology sector amid the country's cont… [+3285 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "VentureBeat"
+    },
+    "author": "Bryson Masse",
+    "title": "Air Force turns to Qylur for AI that monitors autonomous vehicles",
+    "description": "SNIM AI provides a performance monitoring layer to industrial robotics for private companies or drones for the military.",
+    "url": "https://venturebeat.com/ai/air-force-turns-to-qylur-for-ai-that-monitors-autonomous-vehicles/",
+    "urlToImage": "https://venturebeat.com/wp-content/uploads/2023/07/cfr0z3n_simple_colorful_vector_art_with_a_solider_typing_on_a_c_a8e23b1b-759a-4050-98ef-41939a409cd6.png?w=1200&strip=all",
+    "publishedAt": "2023-07-31T13:00:00Z",
+    "content": "Head over to our on-demand library to view sessions from VB Transform 2023. Register Here\r\nIn an increasingly connected world of autonomous vehicles and edge devices, armed forces around the planet a… [+1547 chars]"
+    },
+    {
+    "source": {
+    "id": "wired",
+    "name": "Wired"
+    },
+    "author": "Joel Khalili",
+    "title": "Sex Workers Took Refuge in Crypto. Now It’s Failing Them",
+    "description": "Banks and payments companies have long penalized sex workers. Many thought crypto would be a solution, but now exchanges are dumping them too.",
+    "url": "https://www.wired.com/story/sex-workers-crypto-failing-them/",
+    "urlToImage": "https://media.wired.com/photos/64d192779a01d944fee3625c/191:100/w_1280,c_limit/Sex-Workers-Took-Refuge-In-Crypto-Business-1323759631.jpg",
+    "publishedAt": "2023-08-08T10:00:00Z",
+    "content": "You get on an exchange for as long as you can, until they shut your ass down, says Knox. You quickly [run out of exchanges], so you sit on a lot of useless money. The whole crypto is permissionless a… [+4117 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Slashdot.org"
+    },
+    "author": "msmash",
+    "title": "Meta Scales Back Ambitions for AR Glasses",
+    "description": "An anonymous reader shares a report: In March 2020, as the Covid-19 pandemic began to transform the world, the company then known as Facebook struck a deal to buy all the augmented reality displays made by British firm Plessey. At the time, the deal appeared …",
+    "url": "https://tech.slashdot.org/story/23/07/19/1935235/meta-scales-back-ambitions-for-ar-glasses",
+    "urlToImage": "https://a.fsdn.com/sd/topics/facebook_64.png",
+    "publishedAt": "2023-07-19T19:35:00Z",
+    "content": "In March 2020, as the Covid-19 pandemic began to transform the world, the company then known as Facebook struck a deal to buy all the augmented reality displays made by British firm Plessey. At the t… [+1734 chars]"
+    },
+    {
+    "source": {
+    "id": "wired",
+    "name": "Wired"
+    },
+    "author": "Gregory Barber",
+    "title": "The Cloud Is a Prison. Can the Local-First Software Movement Set Us Free?",
+    "description": "Tired of relying on Big Tech to enable collaboration, peer-to-peer enthusiasts are creating a new model that cuts out the middleman. (That’s you, Google.)",
+    "url": "https://www.wired.com/story/the-cloud-is-a-prison-can-the-local-first-software-movement-set-us-free/",
+    "urlToImage": "https://media.wired.com/photos/64c958a510f55482d7159e84/191:100/w_1280,c_limit/WIRED_ARDHIRAPUTRA_01AUG2023.jpeg",
+    "publishedAt": "2023-08-03T10:00:00Z",
+    "content": "He describes Shapiros paper as an awakening. In CRDTs, Kleppmann saw the technical basis for a new class of software that no one was providing. But the algorithms were mostly useless for professional… [+4147 chars]"
+    },
+    {
+    "source": {
+    "id": "wired",
+    "name": "Wired"
+    },
+    "author": "Lily Hay Newman",
+    "title": "Panasonic Warns That the IoT Malware Cycle Is Accelerating",
+    "description": "The legacy electronics manufacturer is creating IoT honeypots with its products to catch real-world threats and patch vulnerabilities in house.",
+    "url": "https://www.wired.com/story/panasonic-iot-malware-honeypots/",
+    "urlToImage": "https://media.wired.com/photos/64d40178c65d33e5f22478db/191:100/w_1280,c_limit/Panasonic-IoT-Security-GettyImages-1454746662.jpg",
+    "publishedAt": "2023-08-09T22:03:31Z",
+    "content": "Internet of things devices have been plagued by security issues and unfixed vulnerabilities for more than a decade, fueling botnets, facilitating government surveillance, and exposing institutional n… [+3969 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "https://www.facebook.com/bbcnews",
+    "title": "Devastating wildfires spur new detection systems",
+    "description": "Firms are using AI, drones and satellite tech to help detect and suppress wildfires.",
+    "url": "https://www.bbc.co.uk/news/business-66266186",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/450D/production/_130477671_gettyimages-1518872859.jpg",
+    "publishedAt": "2023-08-03T23:02:38Z",
+    "content": "On a Friday night in early July, Nikki Skuce heard from a neighbour the news she had been dreading: her small community of Smithers, British Columbia was on an evacuation alert due to an encroaching … [+4517 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "https://www.facebook.com/bbcnews",
+    "title": "Intel's deepfake detector tested on real and fake videos",
+    "description": "We tested Intel's new tool, \"FakeCatcher\", on videos of Donald Trump and Joe Biden - with mixed results.",
+    "url": "https://www.bbc.co.uk/news/technology-66267961",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F809/production/_130479436_mediaitem130479434.jpg",
+    "publishedAt": "2023-07-22T23:21:04Z",
+    "content": "In March last year a video appeared to show President Volodymyr Zelensky telling the people of Ukraine to lay down their arms and surrender to Russia.\r\nIt was a pretty obvious deepfake - a type of fa… [+4561 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "ReadWrite"
+    },
+    "author": "Aleksey Salaz",
+    "title": "BenQ EW3880R Curved Monitor: The Full Review",
+    "description": "Dive deep into the world of immersive viewing with the incredible BenQ EW3880R Curved Monitor. This high-performing technological jewel offers […]\nThe post BenQ EW3880R Curved Monitor: The Full Review appeared first on ReadWrite.",
+    "url": "https://readwrite.com/benq-ew3880r-curved-monitor-the-full-review/",
+    "urlToImage": "https://images.readwrite.com/wp-content/uploads/2023/07/image.jpg",
+    "publishedAt": "2023-07-20T19:00:47Z",
+    "content": "Dive deep into the world of immersive viewing with the incredible BenQ EW3880R Curved Monitor.\r\nThis high-performing technological jewel offers a unique blend of visual precision and aesthetic design… [+8807 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Martinfowler.com"
+    },
+    "author": "Sarah Taraporewalla",
+    "title": "Creating an integrated business and technology strategy",
+    "description": "A framework for integrating technology and business strategy based on ten common strategic directions",
+    "url": "https://martinfowler.com/articles/creating-integrated-tech-strategy.html",
+    "urlToImage": "https://martinfowler.com/articles/creating-integrated-tech-strategy/card.png",
+    "publishedAt": "2023-08-08T10:35:00Z",
+    "content": "Creating an integrated business and technology strategy\r\nHow do you create a technology strategy? The conventional approach suggests you start with your current state, determine your future state and… [+16411 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "https://www.facebook.com/bbcnews",
+    "title": "Italy could host Musk v Zuckerberg cage fight",
+    "description": "The culture minister says he has spoken to the X boss about hosting the showdown as a charity event.",
+    "url": "https://www.bbc.co.uk/news/world-europe-66480636",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1EF7/production/_130172970_ecd8d43195c4f9997ddd683393e8cd26782cccb2-2.jpg",
+    "publishedAt": "2023-08-11T18:09:14Z",
+    "content": "A planned cage fight between tech leaders Elon Musk and Mark Zuckerberg could now take place in Italy, and have an ancient Rome theme.\r\nIn the story's latest twist, Italy's culture minister on Friday… [+1883 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "https://www.facebook.com/bbcnews",
+    "title": "Wesleyan University: Top US college says it will end 'legacy' admissions",
+    "description": "The university says it is \"important\" to drop the policy, seen as a perk for the white and wealthy.",
+    "url": "https://www.bbc.co.uk/news/world-us-canada-66249601",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3838/production/_130429341_gettyimages-930144714.jpg",
+    "publishedAt": "2023-07-19T15:48:01Z",
+    "content": "Wesleyan University, an elite US liberal arts college, says it will no longer grant preference to student applicants with family or donor ties.\r\nThe Connecticut institution said it was \"important\" to… [+2285 chars]"
+    },
+    {
+    "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "Sindhu Sundar",
+    "title": "AI talent is in high demand even at non-tech companies. And jobs are paying way over six figures — up to $300,000.",
+    "description": "Companies outside of tech are looking to put AI to work. They're posting jobs with salaries of up to $300,000. Insider asked what they're looking for.",
+    "url": "https://www.businessinsider.com/ai-jobs-pay-non-tech-companies-how-to-find-2023-7",
+    "urlToImage": "https://i.insider.com/64badd24bea34400195ebf8b?width=1200&format=jpeg",
+    "publishedAt": "2023-07-21T19:46:22Z",
+    "content": "Even non-tech companies are looking to hire people with AI talent — and they're listing jobs with salaries over six figures.Getty Images\r\n<ul>\n<li>Companies across industries are hiring talent to hel… [+5567 chars]"
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": null,
+    "title": "Biden's targeting of China comes at a bad time for the world's second-largest economy - The Globe and Mail",
+    "description": "<ol><li>Biden's targeting of China comes at a bad time for the world's second-largest economy  The Globe and Mail\r\n</li><li>Biden issues executive order restricting US investment in Chinese tech  Al Jazeera English\r\n</li><li>China accuses US of trying to bloc…",
+    "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LnRoZWdsb2JlYW5kbWFpbC5jb20vd29ybGQvYXJ0aWNsZS1iaWRlbnMtdGFyZ2V0aW5nLW9mLWNoaW5hLWNvbWVzLWF0LWEtYmFkLXRpbWUtZm9yLXRoZS13b3JsZHMtc2Vjb25kL9IBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+    "urlToImage": null,
+    "publishedAt": "2023-08-10T12:39:53Z",
+    "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Boing Boing"
+    },
+    "author": "Rob Beschizza",
+    "title": "Electronic Frontier Foundation to present awards to Sci-Hub founder Alexandra Elbakyan, Signal and the Library Freedom Project",
+    "description": "Alexandra Elbakyan, founder of Sci-Hub–a library of publicly-funded scientific research which is often accused of copyright infringement–will receive the Electronic Frontier Foundation's 2023 award for \"vital work in helping to ensure that technology supports…",
+    "url": "https://boingboing.net/2023/07/28/electronic-frontier-foundation-to-present-awards-to-sci-hub-founder-alexandra-elbakyan-signal-and-the-library-freedom-project.html",
+    "urlToImage": "https://i0.wp.com/boingboing.net/wp-content/uploads/2023/07/image-151.png?fit=1200%2C435&ssl=1",
+    "publishedAt": "2023-07-28T13:59:00Z",
+    "content": "Hosted by renowned science fiction author, activist, journalist, and EFF Special Advisor Cory Doctorow, the EFF Awards ceremony will start at 6:30 pm PT on Thursday, Sept. 14, 2023 at the Regency Lod… [+578 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Android Central"
+    },
+    "author": "tips@androidcentral.com (Nickolas Diaz)",
+    "title": "Samsung's 'Skin Temperature API' gives the Galaxy Watch more potential",
+    "description": "Samsung is preparing to launch its Skin Temperature API for developers to further advance health apps.",
+    "url": "https://www.androidcentral.com/wearables/samsung-skin-temperature-api",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/N758sXM8WrfKmYabzXRRY7-1200-80.jpg",
+    "publishedAt": "2023-07-28T20:13:39Z",
+    "content": "<ul><li>Samsung is preparing to roll out its Skin Temperature API to developers \"soon.\"</li><li>The API lays the ins and outs of its Galaxy Watch 6 and 5 temperature sensors bare for developers to cr… [+2165 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Android Central"
+    },
+    "author": "nicholas.sutrich@futurenet.com (Nicholas Sutrich)",
+    "title": "This is what Samsung had to say about a Galaxy Z Fold FE",
+    "description": "Samsung leads the competition in foldable phones sales, so when will it start offering something less expensive? Looks like we might have an answer.",
+    "url": "https://www.androidcentral.com/phones/samsung-galaxy-z-fold-fe-interview",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/ccKfeyTdunELrNHpcJSWdN-1200-80.jpg",
+    "publishedAt": "2023-08-04T19:37:12Z",
+    "content": "<ul><li>An interview with Drew Blackard, vice president of mobile product marketing at Samsung, revealed future plans to make future Samsung foldables cheaper.</li><li>Samsung fans could see a cheape… [+2182 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Guardian"
+    },
+    "author": "Dan Milmo and agency",
+    "title": "Meta to make new version of AI model available free of charge on Microsoft",
+    "description": "Move gives start-ups and other businesses a low-cost opportunity to compete with OpenAI’s ChatGPT and Google’s BardMark Zuckerberg’s Meta is making a commercial version of its artificial intelligence model freely available, in a move that gives startups and o…",
+    "url": "https://www.theguardian.com/technology/2023/jul/18/ai-free-open-source-microsoft",
+    "urlToImage": "https://i.guim.co.uk/img/media/743e3794207d694c173e9bb844db746a199e2fad/165_0_4645_2789/master/4645.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fcfc3ab44b281fb9d08738657aceddf1",
+    "publishedAt": "2023-07-18T18:51:30Z",
+    "content": "Mark Zuckerbergs Meta is making a commercial version of its artificial intelligence model freely available, in a move that gives startups and other businesses a low-cost opportunity compete with Open… [+4974 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Makezine.com"
+    },
+    "author": "Maker Faire Rome",
+    "title": "The Food Of The Future, The Future Of Food",
+    "description": "In a world grappling with pollution, climate change, and overpopulation, the future of food production has become an urgent matter. How can we sustainably feed the growing global population? How can food be cultivated in extreme environments? These questions …",
+    "url": "https://makezine.com/article/maker-news/maker-faire/the-food-of-the-future-the-future-of-food/",
+    "urlToImage": "https://i0.wp.com/makezine.com/wp-content/uploads/2023/07/GiorgiaPontetti.jpg?fit=1070%2C550&ssl=1",
+    "publishedAt": "2023-07-31T15:00:00Z",
+    "content": "In a world grappling with pollution, climate change, and overpopulation, the future of food production has become an urgent matter. How can we sustainably feed the growing global population? How can … [+4739 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MakeUseOf"
+    },
+    "author": "Jose Luansing Jr.",
+    "title": "How Technology Feeds the Constant Need for Stimulation",
+    "description": "From out-of-control notifications and FOMO to smartphone addiction, technology has many ways of grabbing your attention and making you want more.",
+    "url": "https://www.makeuseof.com/technology-feed-constant-need-stimulation/",
+    "urlToImage": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/head-pointing-finger-hypnotizing-phone.jpg",
+    "publishedAt": "2023-07-30T15:00:23Z",
+    "content": "Technology increases the need for constant stimulation. With the accessibility of various gadgets, you never have to spend time “doing nothing.” They keep you perpetually occupied.\r\nAlthough seemingl… [+6657 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Guardian"
+    },
+    "author": "Arifa Akbar",
+    "title": "The Van Paemel Family review – a single-handed family epic",
+    "description": "Zoo Southside, EdinburghValentijn Dhaenens switches between 13 characters, with the help of technology, to tell a story of poverty and social injusticeIt is maverick, perhaps reckless, to attempt to turn a multi-generational, multicharacter classic into a one…",
+    "url": "https://www.theguardian.com/stage/2023/aug/06/the-van-paemel-family-review-a-single-handed-family-epic",
+    "urlToImage": "https://i.guim.co.uk/img/media/e926efed9ac7de67c10ade8ce5b365121415edf2/0_157_5472_3283/master/5472.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=b91ab83206826e45540136170023c8f9",
+    "publishedAt": "2023-08-06T20:00:19Z",
+    "content": "It is maverick, perhaps reckless, to attempt to turn a multi-generational, multicharacter classic into a one-man show. Yet Valentijn Dhaenens pulls it off in this curious adaptation of Flemish playwr… [+2273 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNET"
+    },
+    "author": "Stephen Shankland",
+    "title": "1Password Tests Passkey Login to Unlock Your Password Vault - CNET",
+    "description": "Passkeys are easier to use and more secure than passwords, tech's biggest companies say. They're trying to nudge us into the \"passwordless\" login era.",
+    "url": "https://www.cnet.com/tech/services-and-software/1password-tests-passkey-login-to-unlock-your-password-vault/",
+    "urlToImage": "https://www.cnet.com/a/img/resize/3cadc1c9096057db1b3ca72ed78fd338937ea07f/hub/2023/07/19/1fa331bb-58c5-4d63-9226-c714417bf057/passkey-1password-unlock.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "publishedAt": "2023-07-20T13:40:00Z",
+    "content": "1Password has begun testing a way to access the app without its namesake password, adding an option to use newer passkey technology instead. The change, which uses a quick biometric check to unlock a… [+5824 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Guardian"
+    },
+    "author": "Jasper Jolly",
+    "title": "‘Driverless cars are the hardest problem you could want to solve’ – Oxa’s Gavin Jackson",
+    "description": "The head of the UK tech startup is as passionate about self-driving ‘autonomy’ as Elon Musk – but thinks it could be 20 years awayDriverless cars are here – if you happen to live in San Francisco, at least. Regulators voted last week to allow two companies to…",
+    "url": "https://www.theguardian.com/technology/2023/aug/15/driverless-cars-are-the-hardest-problem-you-could-want-to-solve-oxas-gavin-jackson",
+    "urlToImage": "https://i.guim.co.uk/img/media/1153670af2926188e9049daba72b5c71d2b12bbe/0_167_6048_3628/master/6048.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=0e5639e96267752495bfd4e06c04b225",
+    "publishedAt": "2023-08-15T13:00:39Z",
+    "content": "Driverless cars are here if you happen to live in San Francisco, at least. Regulators voted last week to allow two companies to run driverless taxi services in the city. So it is surprising to hear f… [+7068 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "ReadWrite"
+    },
+    "author": "Meenakshi Kalyani",
+    "title": "Top 10 Blockchain Development Companies 2023",
+    "description": "Blockchain is the future. This is not an overstatement, even if few might prefer to call it one. According to […]\nThe post Top 10 Blockchain Development Companies 2023 appeared first on ReadWrite.",
+    "url": "https://readwrite.com/top-blockchain-development-companies-2023/",
+    "urlToImage": "https://images.readwrite.com/wp-content/uploads/2023/07/Blockchain-Development-Companies.jpg",
+    "publishedAt": "2023-07-25T21:00:12Z",
+    "content": "Blockchain is the future. This is not an overstatement, even if few might prefer to call it one. According to a survey, the blockchain industry is expected to be worth $163.83 billion by 2029, with a… [+6393 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "ReadWrite"
+    },
+    "author": "Deanna Ritchie",
+    "title": "Can gravityLab solve the artificial gravity problem?",
+    "description": "In the quest to expand humanity’s presence in space, numerous challenges need to be addressed. One of the most critical […]\nThe post Can gravityLab solve the artificial gravity problem? appeared first on ReadWrite.",
+    "url": "https://readwrite.com/can-gravitylab-solve-the-artificial-gravity-problem/",
+    "urlToImage": "https://images.readwrite.com/wp-content/uploads/2023/07/nasa-wAkLQnT2TC0-unsplash-1.jpg",
+    "publishedAt": "2023-07-28T21:43:43Z",
+    "content": "In the quest to expand humanity’s presence in space, numerous challenges need to be addressed. One of the most critical issues is the impact of gravity, or rather the lack thereof, on the human body … [+10333 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "ReadWrite"
+    },
+    "author": "Deanna Ritchie",
+    "title": "This New Crypto Project Wants to Scan Your Eyeballs to Give You Money",
+    "description": "The cryptocurrency services of Worldcoin, a startup founded by Sam Altman and Alex Blania, have officially gone global. The mission […]\nThe post This New Crypto Project Wants to Scan Your Eyeballs to Give You Money appeared first on ReadWrite.",
+    "url": "https://readwrite.com/this-new-crypto-project-wants-to-scan-your-eyeballs-to-give-you-money/",
+    "urlToImage": "https://images.readwrite.com/wp-content/uploads/2023/07/uriel-sc-11KDtiUWRq4-unsplash.jpg",
+    "publishedAt": "2023-07-24T19:23:07Z",
+    "content": "The cryptocurrency services of Worldcoin, a startup founded by Sam Altman and Alex Blania, have officially gone global. The mission of the company is to improve the quality of life for people all ove… [+3984 chars]"
+    },
+    {
+    "source": {
+    "id": "the-next-web",
+    "name": "The Next Web"
+    },
+    "author": "Thomas Macaulay",
+    "title": "UK’s promise to protect encrypted messaging is ‘delusional,’ say critics",
+    "description": "The British government’s promise to protect encryption has been pilloried by security experts and libertarians. The dispute stems from a section of the Online Safety Bill. Under the legislation, messaging apps would be forced to provide access to private comm…",
+    "url": "https://thenextweb.com/news/criticism-uk-online-safety-bill-end-to-end-encryption",
+    "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F12%2FUntitled-design-4.jpg&signature=ab140c02b567a566b3c88643445952cb",
+    "publishedAt": "2023-08-11T13:22:53Z",
+    "content": "The British governments promise to protect encryption has been pilloried by security experts and libertarians.\r\nThe dispute stems from a section of the Online Safety Bill. Under the legislation, mess… [+3036 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "heise online"
+    },
+    "author": "Jennifer Lepies",
+    "title": "Weekly: Schienenfahrzeug Draisy, Atombomben-Forschung und Film \"Oppenheimer\"",
+    "description": "Eine Bahn für stillgelegte Nebenstrecken und die Atombomben-Forschung im zweiten Weltkrieg sind die Themen der neuen Podcast-Folge von MIT Technology Review.",
+    "url": "https://www.heise.de/hintergrund/Weekly-Schienenfahrzeug-Draisy-Atombomben-Forschung-und-Film-Oppenheimer-9219664.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/7/2/9/8/8/TR-Podcast-Weekly_artikel_1200x693_02-2023-f86a8c545257ac51.png",
+    "publishedAt": "2023-07-19T06:00:00Z",
+    "content": "In dieser Woche geht es in \"Weekly\" um ein alternatives Bahnkonzept namens \"Draisy\". Dabei handelt es sich um einen batteriebetriebenen Schienenbus mit 30 Sitz- und 50 Stehplätzen. 22 Tonnen und 13 M… [+2286 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "heise online"
+    },
+    "author": "Jennifer Lepies",
+    "title": "Weekly: KI (mal wieder) ausgetrickst, klimaneutraler Zement, Aliens",
+    "description": "Ein neuer Hack an Sprachmodellen und eine Alternative zu umweltfreundlichem Zement sind Themen der neuen Podcast-Folge von MIT Technology Review.",
+    "url": "https://www.heise.de/hintergrund/Weekly-KI-mal-wieder-ausgetrickst-klimaneutraler-Zement-Aliens-9231839.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/7/9/4/6/1/TR-Podcast-Weekly_artikel_1200x693_02-2023-f86a8c545257ac51.png",
+    "publishedAt": "2023-08-02T05:00:00Z",
+    "content": "In dieser Woche geht es in der neuen Folge \"Weekly\" um Künstliche Intelligenz. Wieder einmal das Thema lässt uns nicht los. Einem Forscher-Team ist es gelungen, Sprachmodellen mittels speziell ausgew… [+1937 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "heise online"
+    },
+    "author": "Jennifer Lepies",
+    "title": "Weekly: Wasserstoffzüge, KI und Gott, Ausflug in die VR",
+    "description": "Über Wasserstoffzüge und, wie Religion die Akzeptanz von KI-Systemen beeinflusst, sprechen wir in der neuen Podcast-Folge von MIT Technology Review.",
+    "url": "https://www.heise.de/hintergrund/Weekly-Wasserstoffzuege-KI-und-Gott-Ausflug-in-die-VR-9244545.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/8/6/3/8/7/TR-Podcast-Weekly_artikel_1200x693_02-2023-f86a8c545257ac51.png",
+    "publishedAt": "2023-08-16T05:00:00Z",
+    "content": "In dieser Woche geht es in der neuen Folge \"Weekly\" um Wasserstoffzüge. Seit August 2022 sind 14 solcher Züge im Netz der evb zwischen Bremervörde, Cuxhaven, Bremerhaven und Buxtehude unterwegs und e… [+1556 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Gizmodo.com"
+    },
+    "author": "Kevin Hurler",
+    "title": "If You Know What an AI Manager Is, Netflix Just Might Hire You for $900,000",
+    "description": "One of the key responsibilities of the role is to “define the strategic vision\" for Netflix's machine learning platform.",
+    "url": "https://gizmodo.com/netflix-is-looking-to-pay-an-ai-manager-900-000-1850675235",
+    "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/369e7c04b4fd4385defc474d81af373b.jpg",
+    "publishedAt": "2023-07-25T20:25:00Z",
+    "content": "`\r\nIn the sixth season premiere of Netflixs Black Mirror, a fictional streaming service named Streamberry uses artificial intelligence to deepfake an actors likeness onto a doubles body while creatin… [+2897 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Gizmodo.com"
+    },
+    "author": "George Dvorsky",
+    "title": "41 Million Americans Are Simmering on Urban Heat Islands",
+    "description": "Try walking outside on a midsummer day in New York City. You’re sweating buckets. You can smell garbage rotting by the side of the road. The sunlight and heat seem to reflect from the steaming pavement, which is so hot to the touch it burns your skin.Read mor…",
+    "url": "https://gizmodo.com/millions-americans-simmering-urban-heat-islands-1850683989",
+    "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/74f6f1762ff494783d5087bc1ab3b228.jpg",
+    "publishedAt": "2023-07-27T20:05:00Z",
+    "content": "Try walking outside on a midsummer day in New York City. Youre sweating buckets. You can smell garbage rotting by the side of the road. The sunlight and heat seem to reflect from the steaming pavemen… [+2848 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Gizmodo.com"
+    },
+    "author": "Kevin Hurler",
+    "title": "NASA and DARPA Tap Lockheed Martin for a Nuclear Propulsion Demonstration",
+    "description": "As NASA shifts its gaze back to the Moon and sets its sights on Mars and beyond in the coming decades, the agency is rethinking the means by which we’ll get there. After previously announcing a collaboration between NASA and the Defense Advanced Research Proj…",
+    "url": "https://gizmodo.com/nasa-darpa-lockheed-martin-nuclear-propulsion-demo-1850682737",
+    "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/4ad4bb15c439a3ab8bd17e3d1f7bf9d4.jpg",
+    "publishedAt": "2023-07-27T18:10:00Z",
+    "content": "As NASA shifts its gaze back to the Moon and sets its sights on Mars and beyond in the coming decades, the agency is rethinking the means by which well get there. After previously announcing a collab… [+2812 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Gizmodo.com"
+    },
+    "author": "Lucas Ropek",
+    "title": "New York Times Bars AI Companies From Using Its Content for Algorithm Training",
+    "description": "The New York Times is making it clear that the AI industry won’t be given free rein to pilfer the newspaper’s content to train algorithms. In a recent change to its Terms of Service policy, the Times has explicitly forbidden the use of its vast media archives…",
+    "url": "https://gizmodo.com/nyt-no-ai-data-scraping-terms-of-service-chatgpt-1850734918",
+    "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/e57150fe5e8e2a726fcf207534ea0cd8.jpg",
+    "publishedAt": "2023-08-14T19:12:00Z",
+    "content": "The New York Times is making it clear that the AI industry wont be given free rein to pilfer the newspapers content to train algorithms. In a recent change to its Terms of Service policy, the Times h… [+3360 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Gizmodo.com"
+    },
+    "author": "Mack DeGeurin",
+    "title": "Human Pleads Guilty in First Ever Self-Driving Pedestrian Death",
+    "description": "Rafaela Vasquez, the operator of a self-driving Uber vehicle that was the first-ever involved in a pedestrian fatality, has pleaded guilty to endangerment in the criminal case that followed the crash. The guilty plea, filed nearly five years after Vasquez’s f…",
+    "url": "https://gizmodo.com/uber-self-driving-car-death-rafaela-vasquez-guilty-az-1850691829",
+    "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/fc552376a2c69f1034057a6df6df3eea.jpg",
+    "publishedAt": "2023-07-31T16:33:53Z",
+    "content": "Rafaela Vasquez, the operator of a self-driving Uber vehicle that was the first-ever involved in a pedestrian fatality, has pleaded guilty to endangerment in the criminal case that followed the crash… [+3054 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Yahoo Entertainment"
+    },
+    "author": "ISABELLA O'MALLEY and MICHAEL PHILLIS",
+    "title": "One year old, US climate law is already turbocharging clean energy technology",
+    "description": "On a recent day under the July sun, three men heaved solar panels onto the roof of a roomy, two-story house near the banks of the Kentucky River, a few miles...",
+    "url": "https://news.yahoo.com/one-old-us-climate-law-121112182.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/JeED95UFzQtTh8uFCFCayA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap.org/47a63675f0a092d84d0433f2037f08bf",
+    "publishedAt": "2023-07-23T12:11:12Z",
+    "content": "FRANKFORT, Ky. (AP) On a recent day under the July sun, three men heaved solar panels onto the roof of a roomy, two-story house near the banks of the Kentucky River, a few miles upstream from the sta… [+6282 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "heise online"
+    },
+    "author": "Jennifer Lepies",
+    "title": "Weekly: Einschlaf-Roboter, Eichen-Prozessionsspinner, \"The Santiago Boys\"",
+    "description": "Ob Roboter beim Einschlafen helfen können und wie man gegen Eichen-Prozessionsspinner vorgeht, sind Themen der neuen Podcast-Folge von MIT Technology Review.",
+    "url": "https://www.heise.de/hintergrund/Weekly-Einschlaf-Roboter-Eichen-Prozessionsspinner-The-Santiago-Boys-9226250.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/7/6/4/7/8/TR-Podcast-Weekly_artikel_1200x693_02-2023-f86a8c545257ac51.png",
+    "publishedAt": "2023-07-26T05:00:00Z",
+    "content": "In dieser Woche geht es in \"Weekly\" um das Einschlafen mithilfe eines \"human-shaped device\". So beschreiben es die japanischen Forscherinnen und Forscher in ihrer Studie. Sie haben untersucht, ob Erw… [+2362 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Zac Hall",
+    "title": "Caltech reaches ‘potential settlement’ in 7-year-old wifi patent lawsuit against Apple",
+    "description": "The California Institute of Technology, a private research university, has reached a “potential settlement” in the 2016 lawsuit against Apple and Broadcom, Reuters reports.\n\n\n\n more…",
+    "url": "https://9to5mac.com/2023/08/10/caltech-apple-potential-settlement/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/12/iPhone-6-owners-should-be-compensated.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-08-11T01:53:56Z",
+    "content": "The California Institute of Technology, a private research university, has reached a “potential settlement” in the 2016 lawsuit against Apple and Broadcom, Reuters reports.\r\nReuters cites this court … [+1087 chars]"
+    },
+    {
+    "source": {
+    "id": "wired",
+    "name": "Wired"
+    },
+    "author": "Elan Ullendorff",
+    "title": "Google's Answer Box Changed the Meaning of Information",
+    "description": "Web search promised to resolve questions. Instead, it's brought on soft apocalypse of a truth that's reduced to trivia.",
+    "url": "https://www.wired.com/story/google-answer-box-information-search/",
+    "urlToImage": "https://media.wired.com/photos/64c9afdb0aff48ce869e0cff/191:100/w_1280,c_limit/ideas_software_google_answer.jpg",
+    "publishedAt": "2023-08-02T10:00:00Z",
+    "content": "The hallway is bathed in harsh white, a figment of LEDs. Along the walls, doors recede endlessly into the distance. Each flaunts a crown of blue light at its base, except for the doors youve walked t… [+3635 chars]"
+    },
+    {
+    "source": {
+    "id": "wired",
+    "name": "Wired"
+    },
+    "author": "Damien Patrick Williams",
+    "title": "Zoom Became a Part of Daily Life. It Needs to Tell Users Exactly How It's Using Their Data",
+    "description": "Zoom is populated by our faces, our voices, and more. If companies like it want to use customer data to train their AI—now or in the future—they need to let people choose if, and how much, to opt in.",
+    "url": "https://www.wired.com/story/zoom-became-a-part-of-daily-life-it-needs-to-tell-users-exactly-how-its-using-their-data/",
+    "urlToImage": "https://media.wired.com/photos/64d42b1a984161b7583de53d/191:100/w_1280,c_limit/ideas_zoom_ai_data_privacy.jpg",
+    "publishedAt": "2023-08-10T13:00:00Z",
+    "content": "Recently, Zoom amendedits terms of service to grant itself the right to use any assetssuch as video recordings, audio transcripts, or shared fileseither uploaded or generated by \"users\" or \"customers… [+4884 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Slashdot.org"
+    },
+    "author": "EditorDavid",
+    "title": "Bill Gates Calls AI's Risks 'Real But Manageable'",
+    "description": "This week Bill Gates said \"there are more reasons than not to be optimistic that we can manage the risks of AI while maximizing their benefits.\"\n\nOne thing that's clear from everything that has been written so far about the risks of AI — and a lot has been wr…",
+    "url": "https://slashdot.org/story/23/07/16/218243/bill-gates-calls-ais-risks-real-but-manageable",
+    "urlToImage": "https://a.fsdn.com/sd/topics/ai_64.png",
+    "publishedAt": "2023-07-16T21:34:00Z",
+    "content": "This week Bill Gates said \"there are more reasons than not to be optimistic that we can manage the risks of AI while maximizing their benefits.\"\r\nOne thing that's clear from everything that has been … [+2916 chars]"
+    },
+    {
+    "source": {
+    "id": "wired",
+    "name": "Wired"
+    },
+    "author": "Kai Ye",
+    "title": "How Signal Walks the Line Between Anarchism and Pragmatism",
+    "description": "The privacy-focused messaging app arose from a fringe culture that emphasized individual autonomy and skepticism of authority. As it tries to go mainstream, can it escape its roots?",
+    "url": "https://www.wired.com/story/signal-politics-software-criticism/",
+    "urlToImage": "https://media.wired.com/photos/64badb7cdaed59ebbf460ca4/191:100/w_1280,c_limit/ideas_software_signal.jpg",
+    "publishedAt": "2023-07-23T11:00:00Z",
+    "content": "It's no exaggeration to say that small features in a chat app encode different visions of how society should be organized. If the first reacji in the palette was a thumbs down rather than a heart, ma… [+4445 chars]"
+    }
+    ]
+    }

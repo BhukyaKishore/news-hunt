@@ -6,9 +6,8 @@
   height: 40vmin;
   pointer-events: none;
 }
-body{
-  background-image: linear-gradient(to bottom, rgb(0, 0, 0), rgb(26, 26, 26));
-  background-repeat: no-repeat;
+body {
+  background-color: #1f1d1d;
 }
 
 .card {
