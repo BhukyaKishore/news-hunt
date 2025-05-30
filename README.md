@@ -1,70 +1,81 @@
-# Getting Started with Create React App
+# 🗞️ News-Hunt
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**News-Hunt** is a real-time news aggregator web app that displays the latest headlines using the [News API](https://newsapi.org/). This project is intended for demo purposes and currently works only on `localhost`.
 
-## Available Scripts
+🔗 **GitHub Repo:** [BhukyaKishore/news-hunt](https://github.com/BhukyaKishore/news-hunt)
 
-In the project directory, you can run:
+> ⚠️ The News API is accessible only on `localhost` for this demo setup.
+>  Demo web-app loded from json file [News-Hunt](https://bhukyakishore.github.io/news-hunt/).
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 📌 Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- 📰 Live news fetched from the News API
+- 🔍 Categorized  news filtering
+- 🧑‍💻 Simple, clean, and responsive user interface
+- ⚡ Fast updates with real-time rendering
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🛠️ Tech Stack
 
-### `npm run build`
+- **HTML**  
+- **Bootstrap**  
+- **JavaScript (React)**  
+- [NewsAPI.org](https://newsapi.org/)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 📦 How to Run Locally
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/BhukyaKishore/news-hunt-master.git
+   //mater branch https://github.com/BhukyaKishore/news-hunt/tree/master
+   cd news-hunt-master
+   npm i
+   npm start run```
+ 2. **Add your News API Key**
 
-### `npm run eject`
+- Sign up at [NewsAPI.org](https://newsapi.org/) to get your free API key.
+- Open `script.js` or your environment file and replace the placeholder API key:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```javascript
+const apiKey = "your_api_key_here";
+````
+## 🎥 Demo (GIF)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![News App Demo](assets/photos/video1.gif)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 📸 Screenshots
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### 🏠 Home Page
+![Home Page](assets/photos/photo1.png)
 
-## Learn More
+### 👨‍✈️ Business View
+![Business View](assets/photos/photo2.png)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### 🎠 Entertainment Page
+![Entertainment Page](assets/photos/photo3.png)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### 🔬 Science Page
+![Science Page](assets/photos/photo4.png)
 
-### Code Splitting
+### 🤖 Technology Page
+![Technology Page](assets/photos/photo5.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+![Technology Page](assets/photos/photo6.png)
 
-### Analyzing the Bundle Size
+### 📄 news-view View
+![news-view View](assets/photos/photo7.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## 👤 Author
 
-### Making a Progressive Web App
+**Bhavani Kishore**  
+💼 GitHub: [@BhukyaKishore](https://github.com/BhukyaKishore)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+📝 LinkedIn: [kishore](https://www.linkedin.com/in/kishore-bhukya/) 
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Thank you ❤️
